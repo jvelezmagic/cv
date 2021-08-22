@@ -64,7 +64,7 @@ Education and Training {data-icon=graduation-cap data-concise=true}
 
 Data Scientist Professional
 
-[Crtificate](https://www.datacamp.com/certificate/DS0014043984873)
+[Certificate](https://www.datacamp.com/certificate/DS0014043984873)
 
 2021 
 
