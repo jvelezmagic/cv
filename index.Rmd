@@ -1,6 +1,6 @@
 ---
-title: "Lijia Yu's resume"
-author: Lijia Yu
+title: "Jesús Vélez Santiago | Resume"
+author: Jesús Vélez Santiago
 date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
@@ -14,15 +14,14 @@ Aside
 ================================================================================
 
 
-![Lijia Yu](https://avatars1.githubusercontent.com/u/895125?s=400&v=4){width=80%}
+![Jesús Vélez Santiago](https://avatars.githubusercontent.com/u/46458320?v=4){width=80%}
 
 
 Contact Info {#contact}
 --------------------------------------------------------------------------------
 
-- <i class="fa fa-envelope"></i> lijia.yu@outlook.com
-- <i class="fa fa-github"></i> [github.com/yulijia](https://github.com/yulijia)
-- <i class="fa fa-phone"></i> +1 000-000-0000
+- <i class="fa fa-envelope"></i> jvelezmagic@gmail.com
+- <i class="fa fa-github"></i> [github.com/jvelezmagic](https://github.com/jvelezmagic)
 - For more information, please contact me via email.
 
 
@@ -33,13 +32,11 @@ Skills {#skills}
 
 - Full experience with next generation sequencing data analysis.
 
-- Highly skilled in R, Bash, Perl, Python, LaTeX
+- Highly skilled in R, Python, Bash.
 
 
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
-
-This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
 
 Last updated on `r Sys.Date()`.
 
@@ -48,150 +45,230 @@ Last updated on `r Sys.Date()`.
 Main
 ================================================================================
 
-Lijia Yu {#title}
+Jesús Vélez Santiago {#title}
 --------------------------------------------------------------------------------
 
-### Currently searching for a PhD student position
+### Genomic Scientist | Data Scientist
 
-Please note that this is a *real* resume, and I'm really looking for a PhD
-student position at the moment. I made this resume because Yihui asked me
-if I'd like to test the **pagedown** package with my resume. If you are
-interested in my background and skills, please feel free to contact me.
+I love analyzing and visualizing data to improve our understanding of what is
+around us. Besides, I am fascinated by software development, and I hope to
+contribute valuable packages to the scientific community one day. I am known
+for being a passionate, curious person and be always open to new challenges.
+Do you have any challenges? Good! Let’s do it. Let’s be problem solvers.
 
 
-Education {data-icon=graduation-cap data-concise=true}
+Education and Training {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
 
-### Beijing University of Chemical Technology
+### Datacamp Inc.
 
-B.S. in Information and Computing Sciences
+Data Scientist Professional
 
-Beijing, China
+[Crtificate](https://www.datacamp.com/certificate/DS0014043984873)
 
-2010
+2021 
 
-Thesis: Dyadic wavelet and its application in edge detection
+The following knowledge was assessed:
 
-### University of Chinese Academy of Sciences
+::: concise
+- Data Management
+- Model Development
+- Exploratory Analysis
+- Coding for Production Environments
+- Statistical Experimentation
+- Communication and Reporting
+:::
 
-M.S. in Bioinformatics
+### Universidad Nacional Autónoma de México
 
-Beijing, China
+B.S. in Genomic Sciences
 
-2014
+Cuernavaca, Morelos, Mexico
 
-Thesis: A multi-omics study for intra-individual divergence of the distributions between mRNA isoforms in mammals
+2017 - 2021
+
+Thesis: [Bacterial filamentation: a bet for survival in stressful environments](https://jvelezmagic.github.io/undergraduate_research_project/)
 
 
 Research Experience {data-icon=laptop}
 --------------------------------------------------------------------------------
 
-### Graduate Research Assistant
+### Undergrad Thesis Student
 
-Beijing Institute of Genomics, Chinese Academy of Sciences
+Center for Genomic Sciences
 
-Beijing, China
+Cuernavaca, Morelos, Mexico
 
-2011 - 2014
+2018 - 2021
 
-- Performed computational biology research towards understanding regulation of alternative splicing in human and mouse transcriptome.
-- Found EGFR pathway related mutations, aimed to understand the impacts of cancer mutations on EGFR signaling pathway.
+- I combined mathematical models with experimental microbiology to understand
+  how exposure to antimicrobial substances triggers bacterial cells' stress
+  responses. I have mainly focused on postulating a mathematical model
+  showing that cell elongation can promote transient resistance to individual
+  bacterial cells by diluting the antibiotic's intracellular concentration.
 
-### Bioinformatican
+### Developer of R Software
 
-My Health Gene Technology Co., Ltd.
+Universität Heidelberg
 
-Beijing, China
+Remote work, Germany
 
-2015 - 2016
+2020 - 2021
 
-- Investigated how cancer cells spread to other parts of the body at the single cell level.
+- Over the years, many different regulatory networks and statistical algorithms
+  have been developed, mostly in a fixed combination of one network and one
+  algorithm. To systematically evaluate both networks and algorithms,
+  we developed [decoupleR](https://saezlab.github.io/decoupleR/), an R package
+  that allows users to apply efficiently any combination provided.
+
+### Assitant of National Researcher Level III or Emeritus
+
+Center for Genomic Sciences
+
+Cuernavaca, Morelos, Mexico
+
+2019 - 2020
+
+- Perform analysis of collections of massive expression experiments
+  (_e.g._, RNA-seq) from _E. coli_ using uniform bioinformatic pipelines
+  that allowed comparison with the transcriptional regulation network's
+  classical experimental knowledge.
+
+### Bioinformatician and Genomist
+
+Centré de Regulació Genòmica
+
+Barcelona, Spain
+
+2019
+
+- Differential expression analysis between the different conditions
+  (_e.g._, deletions, overexpression, wild type) of transcriptional factors.
+- Comparison of the expression profiles of genes regulated by transcriptional
+  factors with the information available in _E. coli_ gene regulation
+  databases (_e.g._, RegulonDB).
 
 ### Visiting Scientist
 
-University of Alabama at Birmingham
+Center for Genomic Sciences
 
-AL, USA
+Cuernavaca, Morelos, Mexico
 
-2016 - 2018
+2018
 
-- Investigated the role of mitochondria in development of cancer.
-- Investigated the evolution of genome architecture and its role in important evolutionary events.
-- Detected thrombotic thrombocytopenic purpura related mutations in mutiple patients' blood genome.
-  
+- Design of R programs for the study of the topological properties of the E. coli transcriptional regulatory network.
 
 Professional Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
-### Data Scientist, intern
+### Data Science Professor
 
-SupStat Inc.
+[Platzi Inc.](https://platzi.com/)
 
-Beijing, China
+Remote work
 
-2014
-
-::: concise
-- Taught R language to beginners. 
-- Wrote Shiny app demos.
-- Converted statistical tutorials from SPSS to R language.
-:::
-
-### Bioinformatician
-
-My Health Gene Technology Co., Ltd.
-
-Beijing, China
-
-2015 - 2016
+2021
 
 ::: concise
-- Analyzed whole-exome sequencing data. 
-- Wrote analysis pipelines of ChIP-seq, single cell DNA-seq and single cell RNA-seq.
-- Studied tumor metastasis and wrote research reports. 
-- Also did case studies to identify the genetic defect causing rare disease.
+- Complete design and planning of two data science courses.
+- Creation of exams and support materials.
+- Courses promotional writing.
+- Courses promotional live class.
 :::
 
 
 Teaching Experience {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
-### Introduction to R Language for Beginners.
+### Advanced Customization of Environment for Data Science
 
-Instructor of R and Data Mining Training Courses at SupStat Inc.
+[Platzi Inc.](https://platzi.com/)
 
-Beijing, China
+[Link to my course](https://platzi.com/clases/entorno-ciencia-datos/)
 
-2014
+2021
 
-### Computational Biology and Bioinformatics.
+Learn how to customize a data science workbench based on Python, Conda,
+and Jupyter Notebooks. With these tools, you will achieve harmony in your
+work environment and increase your productivity as a data scientist.
 
-Teaching assistant of GBS CB2-201 courses at UAB
+### Jupyter Notebooks for Data Science
 
-AL, USA
+[Platzi Inc.](https://platzi.com/)
 
-2016 - 2017
+[Link to my course](https://platzi.com/clases/jupyter-notebook/)
 
+2021
+
+Learn about the different types of Jupyter notebook, the fundamental
+work tool for any data scientist.
+
+### Teaching Assistant of "Analysis of transcriptomic data of single cell (scRNA-seq) with R and Bioconductor." Couse
+
+[Bioinformatics Meeting in Mexico 2021](http://congresos.nnb.unam.mx/EBM2021/analisis-de-datos-transcriptomicos-de-single-cell-con-r/)
+
+[Couse material](https://comunidadbioinfo.github.io/cdsb2021_scRNAseq/)
+
+2021
+
+::: concise
+- Provide support to students.
+- Solve configurations of work environments.
+- Guide discussions and exercises in breakout rooms.
+:::
+
+### Teaching Assitant of Linear Algebra Course
+
+Center for Genomic Sciences
+
+Cuernavaca, Morelos, Mexico
+
+2020
+
+- Monitoring of student performance accompanied by personalized
+  and group tutorials.
+- Review of assignments and exams.
+
+
+Honors and Awards {data-icon=medal}
+--------------------------------------------------------------------------------
+
+### Winner of first "Olimpiadas Platzi: Data Triathlon" – Platzi 
+
+[Platzi Inc.](https://platzi.com/)
+
+[Award link](https://platzi.com/blog/premiacion-data-triathlon/)
+
+
+2020
+
+### Support Program for Research and Technological Innovation Projects (PAPIIT)
+
+National Autonomous University of Mexico (UNAM)
+
+Mexico
+
+2020 - 2021
+
+### Program for Special Inter-institutional Cooperation Activities (PAECI) 
+
+National Autonomous University of Mexico (UNAM)
+
+Mexico
+
+2019
 
 Selected Publications and Posters {data-icon=file}
 --------------------------------------------------------------------------------
 
-### Genetic and epigenetic signals are found predictive to the distribution of intra-individual divergence of alternative splicing.
+### Filamentation: a bet for survival.
 
-Poster for 2013 International Conference of Genomics
+Poster for 2019 Fall School of Mathematical Biology (EOBM).
 
-Qingdao, China
+Merida, Yucatan, Mexico
 
-2014
+2019
 
-**Yu L**, Chen B, Zhang Z.
+**Velez-Santiago J**, Peña-miller R.
 
-### ESCRT-0 complex modulates Rbf mutant cell survival by regulating Rhomboid endosomal trafficking and EGFR signaling.
 
-J Cell Sci. 2016 May 15;129(10):2075-84.
-
-N/A
-
-2016 
-
-Sheng Z, **Yu L**, Zhang T, Pei X, Li X, Zhang Z and Du W. 
