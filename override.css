@@ -23,6 +23,10 @@
   color: var(--primary-color);
 }
 
+.aside {
+    padding: 0.1in var(--sidebar-horizontal-padding);
+}
+
 h1, h2, h3, h4, h5, h6 {
   color: var(--primary-color) !important;
 }
