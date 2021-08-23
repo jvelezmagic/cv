@@ -206,11 +206,11 @@ work environment and increase your productivity as a data scientist.
 Learn about the different types of Jupyter notebook, the fundamental
 work tool for any data scientist.
 
-### Teaching Assistant of "Analysis of transcriptomic data of single cell (scRNA-seq) with R and Bioconductor." Couse
+### Teaching Assistant of "Analysis of transcriptomic data of single cell (scRNA-seq) with R and Bioconductor." Course
 
 [Bioinformatics Meeting in Mexico 2021](http://congresos.nnb.unam.mx/EBM2021/analisis-de-datos-transcriptomicos-de-single-cell-con-r/)
 
-[Couse material](https://comunidadbioinfo.github.io/cdsb2021_scRNAseq/)
+[Course material](https://comunidadbioinfo.github.io/cdsb2021_scRNAseq/)
 
 2021
 
@@ -220,7 +220,7 @@ work tool for any data scientist.
 - Guide discussions and exercises in breakout rooms.
 :::
 
-### Teaching Assitant of Linear Algebra Course
+### Teaching Assistant of Linear Algebra Course
 
 Center for Genomic Sciences
 
