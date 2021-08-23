@@ -1,6 +1,46 @@
+/* Set my own typography */
 @import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
-body{
-  font-family: "Atkinson Hyperlegible", sans-serif;
+:root {
+  /* Set my own colors */
+  --background-color: #f2f2f1;
+  --primary-color: #516db0;
+  --text-color: #404040;
+  --links-colors: #2c2857;
+  
+  --sidebar-width: 12rem; /* side bar width */
+  --sidebar-background-color: #ffffff !important;
+  /*--decorator-border: 2px solid #ffffff; /* change color and thickness of timeline */
 
+}
+
+.pagedjs_pagebox {
+  background-color: var(--background-color);
+  color: var(--text-color);
+}
+
+.pagedjs_pages {
+  color: var(--primary-color);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--primary-color) !important;
+}
+
+.fa {
+  color: var(--primary-color) !important;
+}
+
+.decorator::after{
+  background-color: var(--primary-color); /* change color timeline dots */
+
+}
+
+a {
+  color: var(--links-colors)
+}
+
+body {
+  font-family: "Atkinson Hyperlegible", sans-serif;
+  color: var(--text-color);
 }

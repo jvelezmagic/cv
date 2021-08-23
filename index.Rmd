@@ -17,7 +17,7 @@ Aside
 ================================================================================
 
 
-![Jesús Vélez Santiago](https://avatars.githubusercontent.com/u/46458320?v=4){width=80%}
+![Jesús Vélez Santiago](https://avatars.githubusercontent.com/u/46458320?v=4)
 
 
 Contact Info {#contact}
@@ -233,6 +233,8 @@ Cuernavaca, Morelos, Mexico
   and group tutorials.
 - Review of assignments and exams.
 
+<br>
+<br>
 
 Honors and Awards {data-icon=medal}
 --------------------------------------------------------------------------------
