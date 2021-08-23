@@ -20,6 +20,7 @@
 }
 
 .pagedjs_pages {
+  background-color: var(--background-color);
   color: var(--primary-color);
 }
 
@@ -51,4 +52,12 @@ body {
 
 .avatar {
   border-radius: 50%;
+}
+
+#aside {
+  background-color: #fff;
+}
+
+@media print {
+body {-webkit-print-color-adjust: exact;}
 }
