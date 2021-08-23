@@ -44,3 +44,7 @@ body {
   font-family: "Atkinson Hyperlegible", sans-serif;
   color: var(--text-color);
 }
+
+.avatar {
+  border-radius: 50%;
+}

@@ -17,7 +17,7 @@ Aside
 ================================================================================
 
 
-![Jesús Vélez Santiago](https://avatars.githubusercontent.com/u/46458320?v=4)
+![Jesús Vélez Santiago](https://avatars.githubusercontent.com/u/46458320?v=4){.avatar}
 
 
 Contact Info {#contact}
