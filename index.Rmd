@@ -29,7 +29,6 @@ Contact Info {#contact}
 - <i class="fa fa-linkedin"></i> [\@jvelezmagic](https://www.linkedin.com/in/jvelezmagic/)
 - <i class="fa fa-envelope"></i> jvelezmagic@gmail.com
 
-
 Skills {#skills}
 --------------------------------------------------------------------------------
 
