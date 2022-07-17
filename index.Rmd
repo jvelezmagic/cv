@@ -13,129 +13,81 @@ output:
 knit: pagedown::chrome_print
 ---
 
-Aside
-================================================================================
-
+# Aside
 
 ![Jesús Vélez Santiago](https://avatars.githubusercontent.com/u/46458320?v=4){.avatar}
 
+## Contact Info {#contact}
 
-Contact Info {#contact}
---------------------------------------------------------------------------------
+-   <i class="fa fa-globe"></i> [jvelezmagic.com](https://jvelezmagic.com/)
+-   <i class="fa fa-github"></i> [\@jvelezmagic](https://github.com/jvelezmagic)
+-   <i class="fa fa-twitter"></i> [\@jvelezmagic](https://twitter.com/jvelezmagic)
+-   <i class="fa fa-linkedin"></i> [\@jvelezmagic](https://www.linkedin.com/in/jvelezmagic/)
+-   <i class="fa fa-envelope"></i> [jvelezmagic\@gmail.com](mailto:jvelezmagic@gmail.com){.email}
 
-- <i class="fa fa-globe"></i> [jvelezmagic.com](https://jvelezmagic.com/)
-- <i class="fa fa-github"></i> [\@jvelezmagic](https://github.com/jvelezmagic)
-- <i class="fa fa-twitter"></i> [\@jvelezmagic](https://twitter.com/jvelezmagic)
-- <i class="fa fa-linkedin"></i> [\@jvelezmagic](https://www.linkedin.com/in/jvelezmagic/)
-- <i class="fa fa-envelope"></i> jvelezmagic@gmail.com
+## Skills {#skills}
 
-Skills {#skills}
---------------------------------------------------------------------------------
+- • Highly skilled in R using the Tidyverse and Tidymodels metapackages.
+- • Advanced Python programmer for data analysis and statistics using Pandas and Seaborn.
+- • Skillful using PostgreSQL and Amazon Redshift databases.
+- • Bash, Git, and Virtual Environments.
+- • Storytelling with data.
+- • Effective data visualization.
+- • Data analysis.
+- • Statistical and mathematical modeling.
+- • Machine learning.
 
-- Experienced in machine learning, statistical and mathematical modeling,
-  data analysis, and data visualization.
-
-- Highly skilled in R, Python, Git, and Conda.
-
-
-Disclaimer {#disclaimer}
---------------------------------------------------------------------------------
+## Disclaimer {#disclaimer}
 
 Last updated on `r Sys.Date()`.
 
+# Main
 
+## Jesús Vélez Santiago {#title}
 
-Main
-================================================================================
+### Data Scientist \| Data Analyst \| Genomic Scientist
 
-Jesús Vélez Santiago {#title}
---------------------------------------------------------------------------------
+I love analyzing and visualizing data to improve our understanding of our surroundings. Besides, I am fascinated by software development and love contributing to the community by creating packages and courses. I am known for being a passionate, curious person, and I am always open to new challenges. Do you have any challenges? Good! Let's do it. Let's be problem solvers.
 
-### Genomic Scientist | Data Scientist
+## Professional Experience {data-icon="suitcase"}
 
-I love analyzing and visualizing data to improve our understanding of what is
-around us. Besides, I am fascinated by software development, and I hope to
-contribute valuable packages to the scientific community one day. I am known
-for being a passionate, curious person and be always open to new challenges.
-Do you have any challenges? Good! Let’s do it. Let’s be problem solvers.
+### Learning Experience Data Analyst
 
+[Platzi Inc.](https://platzi.com/)
 
-Education and Training {data-icon=graduation-cap data-concise=true}
---------------------------------------------------------------------------------
+Remote work
 
-### Datacamp Inc.
-
-Data Scientist Professional
-
-[Certificate](https://www.datacamp.com/certificate/DS0014043984873)
-
-2021 
-
-The following knowledge was assessed:
+2022
 
 ::: concise
-- Data Management
-- Model Development
-- Exploratory Analysis
-- Coding for Production Environments
-- Statistical Experimentation
-- Communication and Reporting
+- Dashboard definition and evaluation for monitoring crucial metrics and understanding the root causes of change.
+- Extraction, transformation and loading of data for reliable analytics.
+- Work closely with cross-functional teams to quantify the impact of new product features and their interaction with the user.
+- Communication of data-driven insights; going from observations to useful insights.
 :::
 
-### National Autonomous University of Mexico (UNAM)
+### Bioinformatics specialist
 
-B.S. in Genomic Sciences
+[La Jolla Institute for Immunology](https://www.lji.org/)
 
-Cuernavaca, Morelos, Mexico
+San Diego, United States
 
-2017 - 2021
+2021
 
-Thesis: [Bacterial filamentation: a bet for survival in stressful environments](https://jvelezmagic.github.io/undergraduate_research_project/)
-
-
-Research Experience {data-icon=laptop}
---------------------------------------------------------------------------------
-
-### Undergrad Thesis Student
-
-Center for Genomic Sciences
-
-Cuernavaca, Morelos, Mexico
-
-2018 - 2021
-
-- I combined mathematical models with experimental microbiology to understand
-  how exposure to antimicrobial substances triggers bacterial cells' stress
-  responses. I have mainly focused on postulating a mathematical model
-  showing that cell elongation can promote transient resistance to individual
-  bacterial cells by diluting the antibiotic's intracellular concentration.
+::: concise
+- Creation of pipelines for cleaning and analyzing massive single-cell data sets
+- Creation of internal software packages in R that facilitate and ensure the reproducibility of specific analyses.
+:::
 
 ### Developer of R Software
 
 Universität Heidelberg
 
-Remote work, Germany
+Heidelberg, Germany
 
-2020 - 2021
+2021 - 2020
 
-- Over the years, many different regulatory networks and statistical algorithms
-  have been developed, mostly in a fixed combination of one network and one
-  algorithm. To systematically evaluate both networks and algorithms,
-  we developed [decoupleR](https://saezlab.github.io/decoupleR/), an R package
-  that allows users to apply efficiently any combination provided.
-
-### Assitant of National Researcher Level III or Emeritus
-
-Center for Genomic Sciences
-
-Cuernavaca, Morelos, Mexico
-
-2019 - 2020
-
-- Perform analysis of collections of massive expression experiments
-  (_e.g._, RNA-seq) from _E. coli_ using uniform bioinformatic pipelines
-  that allowed comparison with the transcriptional regulation network's
-  classical experimental knowledge.
+Over the years, many different regulatory networks and statistical algorithms have been developed, mostly in a fixed combination of one network and one algorithm. To systematically evaluate both networks and algorithms, we developed [decoupleR](https://saezlab.github.io/decoupleR/), an R package that allows users to apply efficiently any combination provided.
 
 ### Bioinformatician and Genomist
 
@@ -145,24 +97,10 @@ Barcelona, Spain
 
 2019
 
-- Differential expression analysis between the different conditions
-  (_e.g._, deletions, overexpression, wild type) of transcriptional factors.
-- Comparison of the expression profiles of genes regulated by transcriptional
-  factors with the information available in _E. coli_ gene regulation
-  databases (_e.g._, RegulonDB).
+-   Differential expression analysis between the different conditions (*e.g.*, deletions, overexpression, wild type) of transcriptional factors.
+-   Comparison of the expression profiles of genes regulated by transcriptional factors with the information available in *E. coli* gene regulation databases (*e.g.*, RegulonDB).
 
-### Visiting Scientist
-
-Center for Genomic Sciences
-
-Cuernavaca, Morelos, Mexico
-
-2018
-
-- Design of R programs for the study of the topological properties of the E. coli transcriptional regulatory network.
-
-Professional Experience {data-icon=suitcase}
---------------------------------------------------------------------------------
+## Teaching Experience {data-icon=chalkboard-teacher}
 
 ### Data Science Professor
 
@@ -170,41 +108,17 @@ Professional Experience {data-icon=suitcase}
 
 Remote work
 
-2021
+2022 - 2021
+
+I worked on the complete design of the structure and content of the following courses, as well as effective entry blog writing and live classes for the Data Science Community.
 
 ::: concise
-- Complete design and planning of two data science courses.
-- Creation of exams and support materials.
-- Courses promotional writing.
-- Courses promotional live class.
+-   [Jupyter Notebooks for Data Science Course](https://platzi.com/cursos/jupyter-notebook/) (More than **10,700 students** impacted).
+-   [Advanced Customization of Environment for Data Science Course](https://platzi.com/cursos/entorno-ciencia-datos/) (More than **1,700 students** impacted).
+-   Exploratory Data Analysis Methodology Course (Official release in September of 2022).
+-   Missing Data Detection for Data Science Course (Official release in September of 2022).
+-   Handling of Missing Data for Data Science Course (Official release in September of 2022).
 :::
-
-
-Teaching Experience {data-icon=chalkboard-teacher}
---------------------------------------------------------------------------------
-
-### Advanced Customization of Environment for Data Science
-
-[Platzi Inc.](https://platzi.com/)
-
-[Link to my course](https://platzi.com/clases/entorno-ciencia-datos/)
-
-2021
-
-Learn how to customize a data science workbench based on Python, Conda,
-and Jupyter Notebooks. With these tools, you will achieve harmony in your
-work environment and increase your productivity as a data scientist.
-
-### Jupyter Notebooks for Data Science
-
-[Platzi Inc.](https://platzi.com/)
-
-[Link to my course](https://platzi.com/clases/jupyter-notebook/)
-
-2021
-
-Learn about the different types of Jupyter notebook, the fundamental
-work tool for any data scientist.
 
 ### Teaching Assistant of "Analysis of transcriptomic data of single cell (scRNA-seq) with R and Bioconductor." Course
 
@@ -232,18 +146,47 @@ Cuernavaca, Morelos, Mexico
   and group tutorials.
 - Review of assignments and exams.
 
+## Education and Training {data-icon="graduation-cap" data-concise="true"}
+
+### Datacamp Inc.
+
+Data Scientist Professional
+
+[Certificate](https://www.datacamp.com/certificate/DS0014043984873)
+
+2021
+
+The following knowledge was assessed:
+
+::: concise
+-   Data Management
+-   Model Development
+-   Exploratory Analysis
+-   Coding for Production Environments
+-   Statistical Experimentation
+-   Communication and Reporting
+:::
+
+### National Autonomous University of Mexico (UNAM)
+
+B.S. in Genomic Sciences
+
+Cuernavaca, Morelos, Mexico
+
+2021 - 2017
+
+Thesis: [Bacterial filamentation: a bet for survival in stressful environments](https://jvelezmagic.github.io/undergraduate_research_project/model-analysis.html)
+
 <br>
 <br>
 
-Honors and Awards {data-icon=medal}
---------------------------------------------------------------------------------
+## Honors and Awards {data-icon="medal"}
 
-### Winner of first "Olimpiadas Platzi: Data Triathlon" – Platzi 
+### Winner of first "Olimpiadas Platzi: Data Triathlon" -- Platzi
 
 [Platzi Inc.](https://platzi.com/)
 
 [Award link](https://platzi.com/blog/premiacion-data-triathlon/)
-
 
 2020
 
@@ -253,27 +196,12 @@ National Autonomous University of Mexico (UNAM)
 
 Mexico
 
-2020 - 2021
+2020
 
-### Program for Special Inter-institutional Cooperation Activities (PAECI) 
+### Program for Special Inter-institutional Cooperation Activities (PAECI)
 
 National Autonomous University of Mexico (UNAM)
 
 Mexico
 
 2019
-
-Selected Publications and Posters {data-icon=file}
---------------------------------------------------------------------------------
-
-### Filamentation: a bet for survival.
-
-Poster for 2019 Fall School of Mathematical Biology (EOBM).
-
-Merida, Yucatan, Mexico
-
-2019
-
-**Velez-Santiago J**, Peña-miller R.
-
-
