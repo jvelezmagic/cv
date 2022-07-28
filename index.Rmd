@@ -51,7 +51,7 @@ I love analyzing and visualizing data to improve our understanding of our surrou
 
 ## Professional Experience {data-icon="suitcase"}
 
-### Learning Experience Data Analyst
+### Data Analyst
 
 [Platzi Inc.](https://platzi.com/)
 
